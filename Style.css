@@ -1,0 +1,23 @@
+nav img{
+    height: 30px;
+}
+nav{
+    background-color: #8ace00;
+}
+h1,h2,p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: #8ace00;
+   
+}
+.gif{
+    display: flex;
+    justify-content: center; 
+}
+footer{
+    font-size: large;
+    color: #8ace00;
+}
+

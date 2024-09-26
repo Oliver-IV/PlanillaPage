@@ -4,14 +4,14 @@ nav img{
 nav{
     background-color: #8ace00;
 }
-main{
+main, footer{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h1,h2, a{
+h1,h2{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h1, h3, a{
+h1, h3{
     color: #8ace00;
    
 }
@@ -22,5 +22,9 @@ h1, h3, a{
 footer{
     font-size: large;
     color: #8ace00;
+}
+a{
+    color: #8ace00;
+    text-align: center;
 }
 

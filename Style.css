@@ -19,10 +19,6 @@ h1, h3{
     display: flex;
     justify-content: center; 
 }
-footer{
-    font-size: large;
-    color: #8ace00;
-}
 a{
     color: #8ace00;
     text-align: center;
